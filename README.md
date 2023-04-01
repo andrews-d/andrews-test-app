@@ -9,8 +9,8 @@ This is a sample Next.js app that demonstrates how to build a basic web applicat
 # Getting Started
 To get started, first clone this repository:
 ```
-git clone https://github.com/iskoolu/alkimi-test-app.git
-cd alkimi-test-app
+git clone https://github.com/jolaworks-org/andrews-test-app.git
+cd andrews-test-app.git
 ```
 Then install the dependencies and start the development server:
 ```
